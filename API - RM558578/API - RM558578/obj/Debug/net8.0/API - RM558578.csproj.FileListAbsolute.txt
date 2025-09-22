@@ -1,0 +1,31 @@
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\appsettings.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.staticwebassets.endpoints.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.exe
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.deps.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.runtimeconfig.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\API - RM558578.pdb
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.csproj.AssemblyReference.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.AssemblyInfoInputs.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.AssemblyInfo.cs
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\scopedcss\bundle\API - RM558578.styles.css
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM.D2DD4CBE.Up2Date
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\refint\API - RM558578.dll
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.pdb
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\API - RM558578.genruntimeconfig.cache
+C:\Users\rapha\Downloads\API - RM558578\API - RM558578\obj\Debug\net8.0\ref\API - RM558578.dll
